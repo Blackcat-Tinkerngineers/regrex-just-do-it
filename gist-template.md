@@ -1,10 +1,12 @@
 # Title (replace with your title)
 
-Introductory paragraph (replace this with your text)
+Welcome to the world of Regex or regexp also known as Regular expressions. 
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Regex is as cool as it sounds. Basically built of special text string for 
+describing a search pattern. But even cooler is that you dont have to be a programer to use regex. 
+<a href="https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1">A regex cheatsheet for all those regex haters (and lovers) by https://dev.to/catherinecodes </a>
 
 ## Table of Contents
 
